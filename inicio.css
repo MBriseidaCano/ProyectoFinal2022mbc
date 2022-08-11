@@ -1,0 +1,35 @@
+.tecla1{
+    background-color: #ffff00;
+    border: none;
+    padding: 8px 180px;
+    color: #fff;
+    margin: 1px 1px;
+    text-align: center;
+    cursor: pointer;
+}
+.tecla2{
+    background-color: #0cb7f2;
+    border: none;
+    padding: 8px 175px;
+    color: #fff;
+    margin: 1px 1px;
+    text-align: center;
+    cursor: pointer;
+}
+.tecla3{
+    background-color: #0000ff;
+    border: none;
+    padding: 8px 180px;
+    color: #fff;
+    margin: 1px 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.a, .tecla1, .tecla2, .tecla3{
+    text-decoration: none;
+}
+
+.a, .tecla1:hover, .tecla2:hover, .tecla3:hover{
+    color: #fff;
+}
